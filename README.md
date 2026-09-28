@@ -15,7 +15,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 * 🌱 Currently improving my skills in **React.js, Node.js and JavaScript**
 * 🔭 Interested in **Frontend & Full Stack Development**
 * 🧩 Interested in problem solving and learning new technologies
-* 💃 Classical dancer and creative person
+*    creative person
 * 📍 India
 
 ---
